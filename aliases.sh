@@ -2,6 +2,7 @@
 
 file="/home/CEO"
 sudo apt install bc
+cd ${file}
 
 #sudo useradd -m -d /home/CEO CEO
 
