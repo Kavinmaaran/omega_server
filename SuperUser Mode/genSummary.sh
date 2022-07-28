@@ -84,4 +84,4 @@ done
 > ${file}/src/median.txt
 > ${file}/src/mode.txt
 
-cp /home/CEO/src/*usr.txt /var/www/html/
+cp /home/CEO/src/*usr.txt /var/www/omega/Statistics
